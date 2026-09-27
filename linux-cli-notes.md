@@ -251,7 +251,7 @@ SSH clients will reject private keys with loose permissions:
   icacls MyDemoKey.pem /inheritance:r /grant:r "$($env:USERNAME):R"
   ```
 
-### Connecting to EC2 via SSH (Dynamic & Non-Hardcoded)
+### Connecting to EC2 via SSH
 
 When launching EC2 instances, avoid relying on hardcoded IP addresses or assuming a single username.
 
