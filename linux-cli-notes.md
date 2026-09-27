@@ -1,7 +1,5 @@
 # Linux CLI + AI Automation
 
-Notes for the 120-min walkthrough. Everything below is meant to be typed straight into a terminal — I've built a small set of fake logs/CSVs (see the bottom of this doc) so none of this needs a real AWS box or real customer data to try out.
-
 ---
 
 ## 1. Before touching anything
